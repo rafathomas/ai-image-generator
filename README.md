@@ -9,4 +9,3 @@ Editor de fotos com Laravel 13, Vue 3, MySQL e Gemini. Envie uma imagem, descrev
 3. Para processar edições, execute `php artisan queue:work`. Em outro terminal, `php artisan serve`.
 
 O modelo é ajustável com `GEMINI_IMAGE_MODEL`. Para testes, a aplicação usa SQLite em memória e não chama a API externa.
-# ai-image-generator
